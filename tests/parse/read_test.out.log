@@ -1,0 +1,7 @@
+java.io.FileNotFoundException: /D (Operace zamítnuta)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at com.a7soft.examxml.ExamXML.compare(ExamXML.java:222)
+	at com.a7soft.examxml.ExamXML.main(ExamXML.java:383)
