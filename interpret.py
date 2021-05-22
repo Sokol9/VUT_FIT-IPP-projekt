@@ -1,4 +1,10 @@
 #!usr/bin/python3
+"""
+//implementation of interpret.py from task no.2 from IPP
+//autor: Jakub Sokolik (xsokol14)
+//13.4.2021
+"""
+
 import xml.etree.ElementTree as ET
 from operator import attrgetter
 import argparse
